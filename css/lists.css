@@ -1,0 +1,23 @@
+.roman {
+ list-style-type: upper-roman;
+}
+.number {
+ list-style-type: decimal;
+ margin-left: -1.5em;
+}
+.letter {
+ list-style-type: lower-alpha;
+ margin-left: -1.25em;
+}
+.disc {
+ list-style-type: disc;
+ margin-left: -0.75em;
+}
+.circle {
+ list-style-type: circle;
+ margin-left: -0.5em;
+}
+.square {
+ list-style-type: square;
+ margin-left: 0em;
+}
