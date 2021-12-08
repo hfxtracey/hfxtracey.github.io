@@ -1,0 +1,25 @@
+﻿#barNav-swiftreach { 
+    background: url("SK12-Icon-white-24x24.png") no-repeat center;
+    background-size: 24px;
+    position: relative; 
+}
+/*#srframe { min-height: 1080px; }*/
+/* Parent Portal Overrides - will not work on 3rd party parent element */
+.psparent > iframe {
+    width: 100%!important; 
+    margin-top: 0!important;
+    padding-left: 0!important;
+}
+iframe#srframe {
+    margin-top: 0!important;
+    padding-left: 0!important;
+}
+#srframe { 
+    width: 100%!important; 
+    margin-top: 0!important;
+    padding-left: 0!important;
+    min-height: 400px;
+}
+#btnSwiftK12guardian {
+    background-image: url(icon-SK12.png);
+}

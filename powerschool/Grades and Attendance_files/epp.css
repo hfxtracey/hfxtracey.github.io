@@ -1,0 +1,8 @@
+#btn-access-log a {background: url(/guardian/iconAccessLog.png) no-repeat;}
+#btn-discipline-log a {background: url(/guardian/iconDisciplineLog.png) no-repeat;}
+#btn-graduation-progress a {background: url(/guardian/iconGraduationProgress.png) no-repeat;}
+#btn-honor-roll a {background: url(/guardian/iconHonorRoll.png) no-repeat;}
+#btn-print-transcript a {background: url(/guardian/iconPrintTranscript.png) no-repeat;}
+#btn-test-scores a {background: url(/guardian/iconTestScores.png) no-repeat;}
+#btn-next-year-sched a {background: url(/images/img/iconClassReg.png) no-repeat;}
+body.psparent #nav-main a:hover { background-position: 0px 4px; }
